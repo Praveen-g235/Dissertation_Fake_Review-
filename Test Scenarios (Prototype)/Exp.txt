@@ -1,0 +1,1 @@
+This Folder Contains results related to prototype , to text whether the review is original or computer generated.
